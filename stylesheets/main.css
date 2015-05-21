@@ -5521,7 +5521,6 @@ button.close {
 /*========================================
 =             APP CUSTOM                 =
 ========================================*/
-<<<<<<< HEAD
 .sidebar {
   position: fixed;
   top: 58px;
@@ -5629,7 +5628,7 @@ a {
 
 .glyphicon-eye-open {
   top: 11px; }
-=======
+
 .bg {
   background: url(../img/1.jpg) no-repeat center center;
   background-size: 100% 100%;
@@ -5736,6 +5735,5 @@ a {
 
 .navbar-default .navbar-nav > li > a {
   color: #333; }
->>>>>>> c66449b58fea8a9da5d8ffbaa339592714b9016b
 
 /*# sourceMappingURL=main.css.map */
