@@ -5521,6 +5521,7 @@ button.close {
 /*========================================
 =             APP CUSTOM                 =
 ========================================*/
+<<<<<<< HEAD
 .sidebar {
   position: fixed;
   top: 58px;
@@ -5628,5 +5629,113 @@ a {
 
 .glyphicon-eye-open {
   top: 11px; }
+=======
+.bg {
+  background: url(../img/1.jpg) no-repeat center center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  top: 5em;
+  left: 0; }
+
+.jumbotron {
+  height: 100%;
+  color: white;
+  text-shadow: #444 0 1px 1px;
+  background: transparent; }
+
+.jumbotron {
+  background-size: 100%;
+  background-position: center;
+  height: 100%; }
+
+.jumbotron .container {
+  text-align: center;
+  position: relative;
+  top: 6em;
+  color: white; }
+
+.fluid {
+  text-align: center;
+  border-top: 2px solid #aaa;
+  position: relative;
+  top: 15em;
+  height: 38em; }
+
+.logo img {
+  width: 50%; }
+
+.logo {
+  padding: 40px; }
+
+.trabajo {
+  position: relative;
+  top: 2em;
+  margin-right: 0px;
+  margin: 0px;
+  padding: 21px; }
+
+.trabajo img {
+  width: 100%; }
+
+.container-fluid h1 {
+  text-align: center;
+  position: relative;
+  top: -0.5em; }
+
+.ornamento {
+  width: 17%;
+  position: relative;
+  left: 36.5em;
+  bottom: 1em; }
+
+.footer {
+  background-color: black;
+  height: 125px;
+  position: relative;
+  top: 50em; }
+
+.big {
+  background-color: white;
+  top: -0.5em;
+  position: relative;
+  width: 50%;
+  margin: auto;
+  height: 2em; }
+
+.container-fluid {
+  position: relative;
+  top: 27em; }
+
+.contact {
+  position: relative;
+  top: 43em;
+  height: 22em; }
+
+.footer h3 {
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 1em;
+  margin: 0px; }
+
+.navbar-default {
+  margin: 0px;
+  background-color: rgba 255, 255, 255, 0.97;
+  position: fixed;
+  z-index: 3;
+  width: 100%; }
+
+.navbar-nav {
+  text-align: center;
+  float: none; }
+  .navbar-nav li {
+    float: none;
+    display: inline-block; }
+
+.navbar-default .navbar-nav > li > a {
+  color: #333; }
+>>>>>>> c66449b58fea8a9da5d8ffbaa339592714b9016b
 
 /*# sourceMappingURL=main.css.map */
