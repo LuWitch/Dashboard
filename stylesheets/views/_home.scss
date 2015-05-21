@@ -1,0 +1,117 @@
+.sidebar {
+  position: fixed;
+  top: 58px;
+  width: 109px;
+  left: 0;
+  z-index: 1000;
+  padding: 0px;
+}
+.thumbnail {
+    margin: 0px;
+  border-radius: 0px;
+  padding: 24.5px;
+  top: 1em;
+}
+
+.nav > li > a {
+  display: block;
+  padding: 25.5px 15px;
+}
+.placeholders-fixed-top{
+  position: absolute;
+  top:5.5em;
+
+}
+.placeholder  {
+  left: -9em;
+  top:-5px;
+}
+.navbar-default {
+  
+  border-color: rgba(90, 81, 81, 0.88);
+}
+.barra {
+  top: 72px;  
+  left: 127px;
+  border-bottom: 2px solid rgba(180, 175, 175, 0.76);
+  width: 84em;
+  position: fixed;
+  z-index:2000;
+ background-image: url(../img/dash.jpg);  
+  height: 72px;
+}
+
+.perfil{
+  width: 50%;
+
+}
+.img-circle {
+ position: relative;
+  left: 29em;
+  height: 4.5em;
+  width: 29%;
+  top: -52px;
+}
+.correo {
+  position: relative;
+  top:9px;
+
+}
+.perfil h3 {
+  position: relative;
+  top: 6px;
+  left: 9em;
+}
+.main {
+  top:12em;
+  position: relative;
+}
+.tablas {
+  position: relative;
+  top: 17em;
+  left: 8em;
+  width: 80em;
+  margin: -36px;
+  
+}
+.cabecera{
+  background-color: rgb(40, 39, 39);
+  color:white;
+  width: 24em;
+}
+ body {
+  background-image: url(../img/dash.jpg);
+  line-height: 2.42857;
+}
+.segundabarra li{
+ padding:16px;
+position: relative;
+right: 1em;
+
+}
+a {
+  color: #0B0B0B;
+  }
+  .glyphicon{
+    top:-18px;
+    right: -2em;
+  }
+
+.col-md-4 {
+  width: 29.33333%;
+  left: 2em;
+}
+.pagos{
+  position: relative;
+  left: 10em;
+}
+.cursos{
+  position: relative;
+  left: 81px;
+}
+.white {
+  background-color:white;
+}
+ .glyphicon-eye-open {
+  top: 11px;
+}
